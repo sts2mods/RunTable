@@ -1,6 +1,6 @@
 # Run Table
 
-The vanilla Run History is a "next / previous" navigator — there's no index page. I wanted to be able to search through my runs with different types of filters(you can search by cards/relics/potions in the search bar, filter by badges, victory/loss, custom/daily/normal, and more probably).
+I wanted to be able to search through my runs with different types of filters(you can search by cards/relics/potions in the search bar, filter by badges, victory/loss, custom/daily/normal, and more probably).
 
 click browse runs on the run history page to get to the runtable
 
