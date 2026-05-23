@@ -2,23 +2,23 @@
 
 The vanilla Run History is a "next / previous" navigator — there's no index page. I wanted to be able to search through my runs with different types of filters(you can search by cards/relics/potions in the search bar, filter by badges, victory/loss, custom/daily/normal, and more probably).
 
-click browse runs on the run history page to get to the runtable.
+click browse runs on the run history page to get to the runtable
 
 Here you can see I have 32 runs that were ascension 5 or greater that I got the killed 3 or more elites badges on.
 
 <img width="1512" height="858" alt="Screenshot 2026-05-23 at 12 19 51 PM" src="https://github.com/user-attachments/assets/2ed6453b-cec7-4407-949a-1fe2db88d40c" />
 
-clicking those runs takes you to the run history page for that run.
+clicking those runs takes you to the run history page for that run
 
 <img width="1504" height="854" alt="Screenshot 2026-05-23 at 12 27 13 PM" src="https://github.com/user-attachments/assets/d30334ff-59b6-49de-86bc-09a59fa252a8" />
 
-I originally made this as a badges viewer then realized I was building a full run history searcher so I made it into that with a submenu to view the in-game badges. Clicking on the badges here will bring you to the runtable with that badge filtered, it's kinda interesting but probably less useful.
+I originally made this as a badges viewer then realized I was building a full run history searcher so I made it into that with a submenu to view the in-game badges.  clicking on the badges here will bring you to the runtable with that badge filtered, its kinda interesting but probably less useful.
 
 <img width="1505" height="860" alt="Screenshot 2026-05-23 at 12 30 32 PM" src="https://github.com/user-attachments/assets/06322e79-9eaa-4c83-8a05-a59d3875e78e" />
 
-If you have suggestions or find bugs, submit them as issues and I can fix them.
+If you have suggestions or find bugs submit them as issues and I can fix them.
 
-The rest of this readme was made by claude so it's probably right but who knows:
+The rest of this readme was made by claude so its probably right but who knows:
 
 ## What it does
 
