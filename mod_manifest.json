@@ -1,0 +1,10 @@
+{
+  "id": "RunTable",
+  "name": "Run Table",
+  "author": "austin",
+  "description": "Searchable, filterable table of your past runs. Click any row to open its run history. Includes a Badges sub-view that browses every badge earned across your run history.",
+  "version": "0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}
